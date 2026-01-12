@@ -43,7 +43,7 @@ Este projeto utiliza apenas bibliotecas padrão do Python:
 
 1. Clone o repositório ou baixe os arquivos:
    ```bash
-   git clone https://github.com/seu-usuario/SNAKE-GAME-PYTHON.git
+   git clone https://github.com/VictoOliv/SNAKE-GAME-PYTHON.git
    cd SNAKE-GAME-PYTHON
    ```
 
@@ -119,4 +119,3 @@ Este projeto é de código aberto e está disponível para uso livre.
 ---
 
 Desenvolvido com ❤️ usando Python 3.11.9
-
