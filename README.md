@@ -1,2 +1,2 @@
 # SNAKE-GAME-PYTHON
-Snake Game with 3 difficulties.
+Snake Game com 3 dificuldades.
